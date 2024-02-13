@@ -1,0 +1,23 @@
+div{
+    border: dotted 2px blue;
+    padding: 50px 10px 20px 0px;
+    margin: 100px;
+    border-radius: 20px 0px 0px 0px;
+}
+
+table{
+    border: solid 2px black;
+    border-collapse: collapse;
+}
+th,td{
+    border: solid 2px black;
+    padding-bottom: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+th{
+    background-color:aqua;
+}
+tr:hover{
+    background-color:grey;
+}

@@ -1,0 +1,28 @@
+*
+{
+    background-color: azure;
+}
+
+.external-css-p
+{
+    color:darkgreen;
+}
+
+.about-us
+{
+    color:chocolate;
+}
+
+#quote
+{
+    font-weight:bolder;
+}
+
+a{
+    text-decoration: wavy;
+}
+
+a:visited{
+    color: red;
+}
+
